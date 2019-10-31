@@ -1,2 +1,2 @@
 # Computational-Finance
-Computational Finance Course Assignments
+Computational Finance Practicum Assignments
